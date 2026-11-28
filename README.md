@@ -40,6 +40,3 @@ Browser tests use Playwright Chromium by default; set `CHROME_PATH` to an instal
 - `model.test.js`, `app.spec.js`: unit and browser tests
 - `EXPLAIN-AR.md`: Arabic walkthrough and exercises
 
-## Learning and authorship
-
-Prepared with AI assistance as a learning project, not client work, employment history or evidence of independent authorship. Read the Arabic walkthrough, run the tests and implement practice changes before presenting the code in an interview. Keep real commit dates. UNLICENSED pending the owner's license choice.
